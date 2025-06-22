@@ -1,0 +1,46 @@
+{
+  "id": "in-golden-flame-act-1-actors",
+  "title": "In Golden Flame Act 1 - Actors - Unofficial",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "lancer",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "All the actors pre-built for all base combats within In Golden Flame Act 1, with some custom tokens from the community.  This is unofficial.",
+  "authors": [
+    {
+      "name": "Quaz",
+      "discord": "TheQuazman",
+      "url": "https://github.com/TheQuazman/in-golden-flame-act-1-actors",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "in-golden-flame-act-1-actors",
+      "label": "In Golden Flame Act 1 - Actors - Unofficial",
+      "path": "packs/in-golden-flame-act-1-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "lancer",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/TheQuazman/in-golden-flame-act-1-actors",
+  "manifest": "https://github.com/TheQuazman/in-golden-flame-act-1-actors/releases/1.0.0/download/module.json",
+  "download": "https://github.com/TheQuazman/in-golden-flame-act-1-actors/releases/1.0.0/download/module.zip",
+  "readme": "https://github.com/TheQuazman/in-golden-flame-act-1-actors/blob/master/README.md",
+  "bugs": "https://github.com/TheQuazman/in-golden-flame-act-1-actors/issues"
+}
