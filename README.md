@@ -25,4 +25,4 @@ Many tokens included with permission from:
 
 ### The Community at Large
 
-I decided to make this because of how grateful I am for all the other tools made and help provided by the Lancer community as a whole.  Hopefully this is useful to get people off the ground running with the base actors made for the pre-written encounters in In Golden Flam Act 1.
+I decided to make this because of how grateful I am for all the other tools made and help provided by the Lancer community as a whole.  Hopefully this is useful to get people off the ground running with the base actors made for the pre-written encounters in In Golden Flame Act 1.
